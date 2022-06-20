@@ -1,6 +1,4 @@
-<br /><br />
-
-<div style="margin-top:60px;margin-bottom: 40px;">
+<div style="margin-top:40px;margin-bottom: 40px;">
 <a href="https://darsler.com">
   <p align="center">
    <img height=200 src="https://ik.imagekit.io/drs/dars/brand_02Jq08LI8.png" />
